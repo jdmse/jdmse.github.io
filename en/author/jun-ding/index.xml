@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jun Ding | Ding Jun Research Group</title>
+    <link>https://jdmse.github.io/en/author/jun-ding/</link>
+      <atom:link href="https://jdmse.github.io/en/author/jun-ding/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jun Ding</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://jdmse.github.io/en/author/jun-ding/avatar_hu_5b3a6b8f6e487612.png</url>
+      <title>Jun Ding</title>
+      <link>https://jdmse.github.io/en/author/jun-ding/</link>
+    </image>
+    
+    <item>
+      <title>Jun Ding</title>
+      <link>https://jdmse.github.io/en/author/jun-ding/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdmse.github.io/en/author/jun-ding/</guid>
+      <description>&lt;p&gt;Long-term commitment to the research of the structure-performance relationship of high-performance alloy materials and the mechanical deformation behavior of metal materials. To date, over 70 SCI papers have been published, with more than 6,000 citations; among them, important papers have been published as (co-)first author/corresponding author in journals such as Nature, Nature Materials (2 papers), PNAS (7 papers), Nature Communications (6 papers), Nano Letters, Acta Materialia, npj Computational Materials, etc. The research work has been selected as a research hotspot by the U.S. Department of Energy and reported by Phys.org. He/she leads national-level youth talent projects, general projects from the National Natural Science Foundation, youth projects, and Xi&amp;rsquo;an Jiaotong University&amp;rsquo;s outstanding young talent program.&lt;/p&gt;
+&lt;h3 id=&#34;interests&#34;&gt;Interests:&lt;/h3&gt;
+  &lt;!-- - **High-performance structural materials (high-entropy and amorphous alloys)**
+  - **Machine learning and multiscale simulations**
+  - **3D printing of metal materials**
+  - **Mechanical properties of materials** --&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Disordered structural alloys: High-entropy alloys and Metallic glasses;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Accelerated computational materials discovery and design;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Additive Manufacturing of structural alloys;&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Multiscale modelling of deformation of advanced structural alloys&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Supercooled liquids and crystal-liquid interfaces&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

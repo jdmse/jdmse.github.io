@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>丁俊 | 丁俊课题组</title>
+    <link>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/</link>
+      <atom:link href="https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/index.xml" rel="self" type="application/rss+xml" />
+    <description>丁俊</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
+    <image>
+      <url>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/avatar_hu_5b3a6b8f6e487612.png</url>
+      <title>丁俊</title>
+      <link>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/</link>
+    </image>
+    
+    <item>
+      <title>丁俊</title>
+      <link>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/</guid>
+      <description>&lt;p&gt;长期致力高性能合金材料的结构-性能关系、金属材料的力学变形行为等方面的的研究。迄今已发表70余篇SCI论文，总引用6000余次；其中以（共同）第一作者/通讯作者身份发表Nature, Nature Materials （2篇）, PNAS（7篇）, Nature Communications （6篇）, Nano Letters, Acta Materialia, npj Computational Materials 等重要论文。研究工作被美国能源部选为研究热点，并且被Phys.org报道。主持国家级青年特聘人才项目、国家自然科学基金面上、青年项目、西安交大青年拔尖人才计划等。&lt;/p&gt;
+&lt;h3 id=&#34;interests&#34;&gt;Interests:&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;高性能结构材料（高熵合金、非晶合金）&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;机器学习与多尺度模拟&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;金属材料3D打印&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;材料力学行为&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

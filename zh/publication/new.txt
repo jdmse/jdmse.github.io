@@ -1,0 +1,240 @@
+77. Structural state governs the mechanism of shear-band propgagation in metallic glasses
+      Jinhua Yu, Zhen Zhang, Zhendong Sha, Jun Ding*, A. Lindsay Greer, Evan Ma*
+      Proceedings of the National Academy of Sciences (PNAS)  122, e2427082122 (2025)
+76. Local chemical order in CrFeCoNiPd high entropy alloys
+      Jing Zhang, Zi-Yao Ma, Kaihui Xun, Zhen-Dong Sha*, Jun Ding*
+      Journal of Applied Physics 138, 4 (2025) [Cover Image; Editor's Pick]
+75. Accelerated prediction of chemical short-range order via lattice distortion in multi-principal element alloys
+      Qianqian Song, Bozhao Zhang, Kaihui Xun, Evan Ma, Jun Ding*
+      Scripta Materialia 267, 116828 (2025)
+74. Fractal distribution of nanoscale heterogeneity promotes the glass formation of Cu-Zr-Ag metallic glasses
+     J Zhou, Z Yan, H Huang, S Que, S Song, H Liu, J Ding, F Zhu*
+     Physical Review B 111, L220203 (2025)
+73. Novel mechanism of ultra-high adiabatic shear susceptibility in FCC-based high-entropy alloys via high-content nanoprecipitate dissolution
+      Yao Xiao, Qinglei Zeng, Kaihui Xun, Jun Ding, Linjing Wang, Liang Wang et al. Yunfei Xue*
+      Acta Materialia 296, 121280 (2025)
+72. Atomic-scale deformation mechanisms in metal nanocomposites with intragranular amorphous nanoparticles
+      C Ye, S Ge, B Zou, YM Wang, D Zhang, J Ding, K Wang*, Z Li*.
+      International Journal of Plasticity 191, 104398 (2025)
+71. Dislocation multijunction-driven plasticity in HfNbTiZr high-entropy alloys
+      Yu-Zhen Yin, Yaqiong An, Jun Ding*, Wei-Zhong Han*
+      Nano Letters 25, 10465-10471 (2025)
+70. Solar flare tracks: Unveiling features and their impact on distinct Lunar soil transformations
+      Yujie Chen, Yan Fang, Xiaoqian Fu, Chenglin Pua, Wentao Yuan, Jiangan Guo, Tianping Ying, Yong Wang, Jun Ding, Suya Liu, Guang Yang, Zhen Chen, Ze Zhang, Fanqi Meng, Lin Gu*, Xiaolong Chen*, Jinhua Li*, Qian Yu*
+      Advanced Functional Materials 2509781 （2025）
+69. Machine learning-driven atomistic simulation of mechanical deformation in nanoporous amorphous carbon
+      Jinhua Yu, Xinxin Zhao, Kaihui Xun, Shengze Zhang, Lu Jiang*, Jun Ding*
+      Carbon 243, 120507 (2025)
+68. Tetrahedral versus octahedral interstitital sites for oxygen solutes in NbTiZr medium-entropy alloy
+      Bozhao Zhang, Yaqiong An, Chang Liu, Jun Ding*, Evan Ma*
+      Journal of Materials Science & Technology 241, 229-237 (2026)
+67. Dispersion hardening using amorphous nanoparticles deployed via additive manufacturing
+      Ge Wang, Yin Zhang, Jian Liu, Wen Chen, Kang Wang et al. Jun Ding, Y. Morris Wang, Ting Zhu, Zan Li*, Di Zhang*, Evan Ma*
+      Nature Communications 16:3589 (2025)
+66. Ridge-twin boundaries as prolific dislocation sources in low stacking-fault energy metals and alloys
+      Xiaoqian Fu, Yujie Chen, Jun Ding*, Cigdem Ozsoy-Keskinbora, Guang Yang, Yan Fang, Eun Soo Park, Ze Zhang, Robert Ritchie*, En Ma*, Qian Yu*
+      Acta Materialia 290, 120957 (2025)
+65. Quantifying the local compositional fluctuation and Shannon entropy inherent in multi-principal element alloys
+      Miaoran Zhang, Bozhao Zhang, Jun Ding*, Evan Ma*
+      Scripta Materialia 259, 116559 (2025)
+64. Additive manufacturing of a strong and ductile oxygen-doped NbTiZr medium-entropy alloy
+      Yaqiong An, Yijie Liu, Shujie Liu, Bozhao Zhang, Guanghui Yang, Cheng Zhang, Xipeng Tan, Jun Ding*, En Ma
+       Materials Futures 4, 015001 (2025)
+63. Amplifying Suzuki segregation and hardening in a concentrated solid solution alloy
+      Q Cheng, F Tan, P Mohapatra, W Ming, J Ding, Q Gao, MW Chen, JH Chen, XD Xu* & E Ma*
+       Journal of Materials Science & Technology 232, 156-169 (2025)
+62. Compositional fluctuation and local chemical ordering in multi-principal element alloys
+       En Ma* & Jun Ding
+       Journal of Materials Science & Technology 220, 233-244 (2025)
+61. Achieving high strength and large ductility in a Cr30Co30Ni30Al5Ti5 alloy through intergradular precipitation
+      Jiawei Zou, Siyu Chen, Pengming Cheng, Jun Ding, Chongle Zhang, et al. Lin Gu, Ze Zhang, Gang Sha, Qian Yu*
+       Journal of Materials Science & Technology 215, 167-179 (2025)
+60. Near-theoretical strength and deformation stabilization achieved via grain boundary segregation and nano-clustering of solutes
+      Chang Liu*, Jing Rao, Zhongji Sun, Wenjun Lu, James Best, Xuehan Li, WEnzhen Xia, Yilun Gong, Ye Wei, Bozhao Zhang, Jun Ding*, Ge Wu*, En Ma*
+       Nature Communications 15:9283 (2024) 
+59. Uniting ultrahigh plasticity with near-theoretical strength in submicron-scale Si via surface healing
+      Wei Xu, Jinhua Yu, Jun Ding, Yunna Guo, Lei Deng, Liqiang Zhang, Xiaoxuan Wan, Shaochuan Zheng, Yuecun Wang*, Zhiwei Shan*
+      Advanced Functional Materials 2404694 (2024)
+58. Trade-off between local chemical order and lattice distortion in affecting dislocation motion in NbTiZr multi-principal element alloys
+      Bing Chen, Suzhi Li*, Jun Ding, Xiangdong Ding, Jun Sun, En Ma
+      Acta Materialia 272, 119910 (2024)
+57. Inward motion of diamond nanoparticles inside an iron crystal
+      Yuecun Wang, Xudong Wang, Jun Ding, Beiming Liang, Lingling Zuo... Wei Zhang, Ju Li, En Ma*, Zhiwei Shan*
+      Nature Communications 15：4659（2024）
+56. The origin of exceptionally large ductility in molybdenum alloys dispersed with irregular-shaped La2O3 nano-particles
+      Yujie Chen, Yan Fang, Pengming Cheng, Xiaoxing Ke, Manchen Zhang, Jiawei Zou, Jun Ding*, Bozhao Zhang, Lin Gu*, Qinghua Zhang,                Gang Liu*, Qian Yu*
+      Nature Communications 15:4105 (2024)
+55. Rejuventation as the origin of planar defects in the CrCoNi medium entropy alloy
+      Yang Yang, Sheng Yin, QIn Yu, Yingxin Zhu, Jun Ding, Ruopeng Zhang, Colin Ophus, Mark Asta, Robert Ritchie, Andrew Minor
+       Nature Communications 15:1402 (2024)
+54. Minimizing the diffusivity difference between vacancies and interstitials in multi-principal element alloys
+      Bozhao Zhang, Zhen Zhang, Kaihui Xun, Mark Asta, Jun Ding*, Evan Ma*
+      Proceedings of the National Academy of Sciences (PNAS)  121, e2314248121 (2024)
+53. Recovery faciliated by interphase boundary motion circumvents recrystallization in superalloy single crystals
+      Hongfei Zhang, Kai Chen, Sicong Lin, Rui Fu, Bozhao Zhang, Jun Ding, Zongqiang Feng, Xiaoxu Huang, Evan Ma
+      Materials Research Letters 13:3 (2024)
+52. Origin of the high propensity for nanoscale deformation twins in CrCoNi medium-entropy alloys
+      Nanjun Liu, Zhangjie Wang, Jun Ding*, Mark Asta, Robert Ritchie, Bin Gan, Evan Ma, Zhiwei Shan*
+      Journal of Materials Science & Technology 183, 63-71 (2024)
+51. Three-dimensional atomic structure and local chemical order of medium- and high-entropy nanoalloys
+      Saman Moniri#, Yao Yang#, Jun Ding#, Yakun Yuan, Jihan Zhou et al. Liangbing Hu, Peter Ercius, Jianwei Miao*
+      Nature 564, 624 (2023)
+50. Chemical inhomogeneity-induced profuse nanotwinning and phase transformation in AuCu nanowires
+      Chengpeng Yang, Bozhao Zhang, Libo Fu, Zhanxin Wang, Jiao Teng, Ruiwen Shao, Ziqi Wu, Xiaoxue Chang, Jun Ding*, Lihua Wang*,                    Xiaodong Han*
+      Nature Communications 14, 5705 (2023)
+49. Aging elevates chemical short-range order and twinning stress in a CrCoNi medium-entropy alloy
+      Nanjun Liu, Xintao Tian, Qiaojun Liu, Bin Gan, Jun Ding, En Ma*, Zhangjie Wang*
+      Science China Materials (2023)
+48. Dynamic homogenization of internal strain in multi-principal element alloy via high-concentration doping of oxygen with large mobility
+      Yajing Song, Bozhao Zhang, Tianxin Li, Xiaoqian Fu, Jiawei Zou, Yujie Chen,... Jun Ding*, Qian Yu*
+       Small Methods 2300871 (2023)
+47. Tailoring planar slip to achieve pure metal-like ductility in body-cnetred-cubic multi-principal element alloys
+      Liang Wang#, Jun Ding#, Songshen Chen, Ke Jin, Qiuhong Zhang... Yunfei Xue*, En Ma*
+      Nature Materials 22, 950-957 (2023)
+46. Effect of local chemical order on the irradiation-induced defect evolution in CrCoNi medium-entropy alloy
+      Zhen Zhang#, Zhengxiong Su#, Bozhao Zhang#, Qin Yu, Jun Ding*, Tan Shi, Chenyang Lu*, Robert Ritchie, Evan Ma*
+       Proceedings of the National Academy of Sciences (PNAS)  120, e2218673120 (2023)
+45. Enhancing the radiation tolerance of high-entropy alloys via solute-promoted chemical heterogeneities
+      Zhengxiong Su#, Jun Ding#, Miao Song, Li Jiang, Tan Shi, Zhiming Li, Sheng Wang*, Fei Gao, Di Yun, En Ma*, Chenyang Lu*
+      Acta Materialia 245, 118662 (2023)
+44. Direct observation of oxygen atoms taking tetrahedral interstitial sites in medium-entropy body-centered-cubic solutions
+      Chang Liu, Jizhe Cui, Zhiying Cheng, Bozhao Zhang, Siyuan Zhang, Jun Ding, Rong Yu*, En Ma*
+      Advanced Materials 2209941 (2023)
+43. On the reliability of using reverse Monte Carlo simulations to construct the atomic structure model of metallic glasses
+      Chang Liu, Zhen Zhang*, Jun Ding*, En Ma
+      Scripta Materialia 225, 115159 (2023)
+42. Correlating dislocation mobility with local lattice distortion in refractory multi-principal element alloys
+      Bing Chen, Suzhi Li*, Jun Ding*, Xiangdong Ding, Jun Sun, En Ma*
+      Scripta Materialia 222, 115048 (2023)
+41.  Local chemical inhomogeneities in TiZrNb-based refractory high-entropy alloy
+       Kaihui Xun, Bozhao Zhang, Qi ZWang, Zhen Zhang, Jun Ding*, En Ma*
+       Journal of Materials Science & Technology, 135, 221-230 (2023)
+40. Multi-objective optimization for high-performance Fe-based metallic glasses via machine learning approach
+      Yu-Xing Zhang, She-Juan Xie, Wei Guo, Jun Ding, Leong Hien Poh, Zhen-Dong Sha
+      Journal of Alloys and Compounds, 170793 (2023)
+39. Shear transformations in metallic glasses without excessive and predefinable defects
+      Zhen Zhang, Jun Ding*, En Ma*
+      Proceedings of the National Academy of Sciences (PNAS)  119, 48 (2022)
+38. Anomalous size effect on yield strength enabled by compositional heterogeneity in high-entropy alloy nanoparticles
+      Jingyuan Yan, Sheng Yin, Mark Asta, Robert O Ritchie, Jun Ding*, Qian Yu*
+      Nature Communications, 13, 2789 (2022)
+37.  Grain size and heterophase effects on mechanical properties of Mg-Cu nanoglasses
+       Yu Chen, Jun Ding*, Zhendong Sha*
+       Frontier in Materials, 9, 908952 (2022)
+36. Tuning the near room temperature oxidation behavior of highentropy alloy nanoparticles
+       Jing Gao,  Jun Ding*, Yin Zhang, Ting Zhu, Qian Yu*
+       Nano Research (2021)
+35. Chemical short-range order in bodycentered-cubic TiZrHfNb high-entropy alloys
+      Bozhao Zhang, Jun Ding*, En Ma*
+      Applied Physics Letters 119, 201908 (2021)
+34. Tension-compression asymmetry in amoprhous silicon
+      Yuecun Wang#, Jun Ding#, Zhao Fan#, Lin Tian#, Meng Li, Huanhuan Lu, Yongqiang Zhang, En Ma*, Ju Li*, Zhiwei Shan* 
+      Nature Materials  (2021)
+33. Atomistic simulations of dislocation mobility in refractory high-entropy alloys and the effect of chemical short-range order
+      Sheng Yin, Yunxing Zuo, Anas Abu-Odeh, Hui Zhang, Xiang-Guo Li, Jun Ding, Shyue Ping Ong*, Mark Asta*, Robert Ritchie*
+      Nature Communications 12, 4873 (2021)
+32. Local chemical fluctuation mediated ductility in body-centered-cubic high-entropy alloys
+      Yeqiang Bu#, Yuan Wu#, Zhifeng Lei, Xiaoyuan Yuan, Honghui Wu, Xiaobin Feng, Jiabin Liu*, Jun Ding, Yang Lu*, Hongtao Wang*, Zhaoping Lu*, Wei Yang
+      Materials Today  46, 28-34 (2021)
+31. Universal nature of the saddle states of structural excitations in metallic glasses
+      Jun Ding*, Lin Li*, Neng Wang, Liang Tian, Mark Asta, Robert Ritchie, Takeshi Egami*
+      Materials Today Physics  17, 100359 (2021)
+30. Predicting the propensity for thermally activated β events in metallic glasses via interpretable machine learning
+      Qi Wang*, Jun Ding*, Longfei Zhang, Evgeny Podryabinkin, Alexander Shapeev, Evan Ma
+      npj Computational Materials  6,194 (2020)
+29. Machine learning bridges local static structure with multiple properties in metallic glasses
+      Zhao Fan*, Jun Ding, Evan Ma*
+      Materials Today  49, 48-62 (2020)
+28. Short-range order and its impact on the CrCoNi medium-entropy alloy
+      Ruopeng Zhang#, Shiteng Zhao#, Jun Ding, Yan Chong, Tao Jia, Colin Ophus, Mark Asta, Robert Ritchie, Andrew Minor*
+      Nature  581, 283-287 (2020)
+27. Ab initio modeling of the role of short-range order in the Peierls potential of screw dislocations in body-centered cubic high-entropy alloys
+      Sheng Yin, Jun Ding, Mark Asta*, Robert Ritchie*
+      npj Computational Materials  6, 110 (2020)
+26. Direct measurement of nanostructural change during in situ deformation of a bulk metallic glass
+      Thomas Pekin*, Jun Ding, Christoph Gammer, Burak Ozdol, Colin Ophus, Mark Asta, Robert Ritchie, Andrew Minor* 
+      Nature Communications  10, 2445 (2019)
+25. ART_data_analyzer: Automating parallelized computations to study the evolution of materials
+      Liang Tian*, Lin Li, Jun Ding, Normand Mousseau
+      SoftwareX  9, 238-243 (2019)
+24. Tunable stacking fault energies by tailoring local chemical order in CrCoNi medium-entropy alloys
+      Jun Ding, Qin Yu, Mark Asta*, Robert Ritchie*
+      Proceedings of the National Academy of Sciences (PNAS) 115, 8919-8924 (2018)
+23. Melts of CrCoNi-based high-entropy alloys: Atomic diffusion and electronic/atomic structure from ab initio simulation
+      Jun Ding, Mark Asta*, Robert Ritchie* 
+      Applied Physics Letters 113, 111902 (2018) 
+22. Chemical variation induced nanoscale spatial heterogeneity in metallic glasses
+      Neng Wang#, Jun Ding#, Peng Luo, Yanhui Liu, Lin Li*, Fan Yan*
+      Materials Research Letters  6, 655-661 (2018) 
+21. Making glassy solids ductile at room temperature by imparting flexibility into their amorphous structure
+      Zhao Fan, Jun Ding, Evan Ma*
+      Materials Research Letters 6, 570-583 (2018) 
+20. Spatial correlation of elastic heterogeneity tunes the deformation behavior of metallic glasses
+      Neng Wang, Jun Ding*, Fan Yan, Mark Asta, Robert Ritchie, Lin Li* 
+      npj Computational Materials 4, 19 (2018) 
+19. On the question of fractal packing structure in metallic glasses
+      Jun Ding, Mark Asta*, Robert Ritchie*
+      Proceedings of the National Academy of Sciences (PNAS) 114, 8458-8463 (2017) 
+18. Correlating the properties of amorphous silicon with its flexibility volume
+      Zhao Fan, Jun Ding*, Qingjie Li, Evan Ma*
+      Physical Review B  95, 144211 (2017) 
+17. Computational modelling sheds light on structural evolution in metallic glasses and supercooled liquids
+      Jun Ding*, Evan Ma* 
+      npj Computational Materials 3, 9 (2017) 
+16. Universal structural parameter to quantitatively predict metallic glass properties
+      Jun Ding, Yongqiang Cheng, Howard Sheng, Mark Asta, Robert Ritchie, Evan Ma* 
+      Nature Communications 7, 13733 (2016)    
+15. Tailoring structural inhomogeneities in metallic glasses to enable tensile ductility at room temperature    
+      Evan Ma*, Jun Ding
+      Materials Today  19, 568-579 (2016) 
+14. Anomalous structure-property relationships in metallic glasses through pressure-mediated glass formation
+      Jun Ding, Mark Asta*, Robert Ritchie* 
+      Physical Review B: Rapid Communications 93, 140204 (R) (2016) 
+13. Second-nearest-neighbor correlations from connection of atomic packing motifs in metallic glasses and liquids
+      Jun Ding, Evan Ma, Mark Asta*, Robert Ritchie*
+      Scientific Reports 5, 17429 (2015) 
+12. Soft spots and their structural signature in a metallic glass
+      Jun Ding, Sylvain Patinet, Michael Falk, Yongqiang Cheng, Evan Ma*
+      Proceedings of the National Academy of Sciences (PNAS) 111,14052-14056 (2014)  
+11. Full icosahedra dominate local order in Cu64Zr36 metallic glass and supercooled liquid
+      Jun Ding, Yongqiang Cheng, Evan Ma*
+      Acta Materialia  69, 343-354 (2014) 
+10. On the origin of elastic strain limit of bulk metallic glasses
+      Jun Ding*, Yongqiang Cheng, Evan Ma*
+      Applied Physics Letters 104, 011912 (2014)
+  9. Charge transfer and atomic-level pressure in metallic glasses
+      Jun Ding*, Yongqiang Cheng
+      Applied Physics Letters 104, 051903 (2014)
+  8. Temperature effects on atomic pair distribution functions of melts
+      Jun Ding*, Ming Xu, Pengfei Guan, Shengwei Deng, Yongqiang Cheng, Evan Ma  
+      The Journal of Chemical Physics 140, 064501 (2014)
+  7. Charge-transfer-enhanced prism-type local order in amorphous Mg65Cu25Y10: Short-to-medium-range structural evolution underlying            liquid fragility and heat capacity
+      Jun Ding*, Yongqiang Cheng, Evan Ma
+      Acta Materialia  61, 3130-3140 (2013)
+  6. Quantitative measure of local solidity/liquidity in metallic glasses
+      Jun Ding*, Yongqiang Cheng, Evan Ma
+      Acta Materialia  61, 4474-4480 (2013)
+  5. Local topology vs. atomic-level stresses as a measure of disorder: Correlating structural indicators for metallic glasses
+      Yongqiang Cheng, Jun Ding, Evan Ma*
+      Materials Research Letters 1, 3-12. (2013)
+  4. Short-range structural signature of excess specific heat and fragility of metallic-glass-forming supercooled liquids
+      Jun Ding, Yongqiang Cheng, Howard Sheng, Evan Ma*
+      Physical Review B: Rapid Communications  85, 060201(R) (2012)
+  3. Correlating local structure with inhomogeneous elastic deformation in a metallic glass
+      Jun Ding, Yongqiang Cheng, Evan Ma*
+      Applied Physics Letters 101, 121917 (2012)
+  2. One-dimensional stringlike cooperative migration of lithium ions in an ultrafast ionic conductor
+      Ming Xu, Jun Ding, Evan Ma* 
+      Applied Physics Letters 101, 031901 (2012)
+  1. Sample size matters for Al88Fe7Gd5 metallic glass: Smaller is stronger
+      C.C Wang, J. Ding, Y.Q. Cheng, J.C. Wan, L. Tian, J. Sun, Z.W. Shan*, J. Li*, E. Ma*
+      Acta Materialia  60, 5370-5379 (2012)
+三：体心立方多主元合金中原子应变的计算模拟
+       宋倩倩，张博召，丁俊
+       物理学报 Acta Phys. Sin. 74 (8) 086102 (2025)
+二：2000C 高温高承载的Ta-W难熔合金
+       张旭，田谨，薛敏涛，江峰，李苏植，张博召，丁俊，李小平，马恩，丁向东，孙军
+       金属学报  第58卷，第10期 （2022）
+ 一：高熵合金中的局域化学有序
+       丁俊，王章洁
+       金属学报  第57卷，第4期 （2021）
