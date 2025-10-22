@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jun Ding | Ding Research Group — Advancing Disordered Alloys</title><link>https://jdmse.github.io/en/author/jun-ding/</link><atom:link href="https://jdmse.github.io/en/author/jun-ding/index.xml" rel="self" type="application/rss+xml"/><description>Jun Ding</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://jdmse.github.io/en/author/jun-ding/avatar_hu_5b3a6b8f6e487612.png</url><title>Jun Ding</title><link>https://jdmse.github.io/en/author/jun-ding/</link></image><item><title>Jun Ding</title><link>https://jdmse.github.io/en/author/jun-ding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jdmse.github.io/en/author/jun-ding/</guid><description>
-&lt;span id="eml-8865e4386bcebf15ffbd8938edd1559e" class="email-reveal " data-user="dingsn" data-domain="xjtu.edu.cn" data-subject=""&gt;
-&lt;span class="email-label"&gt;Email:&lt;/span&gt;
-&lt;a href="#" class="js-reveal-email"&gt;(click to reveal)&lt;/a&gt;
-&lt;noscript&gt;
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Jun Ding | Ding Research Group — Advancing Disordered Alloys</title><link>https://jdmse.github.io/en/author/jun-ding/</link><atom:link href="https://jdmse.github.io/en/author/jun-ding/index.xml" rel="self" type="application/rss+xml"/><description>Jun Ding</description><generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><image><url>https://jdmse.github.io/en/author/jun-ding/avatar_hu3452089372303337323.png</url><title>Jun Ding</title><link>https://jdmse.github.io/en/author/jun-ding/</link></image><item><title>Jun Ding</title><link>https://jdmse.github.io/en/author/jun-ding/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://jdmse.github.io/en/author/jun-ding/</guid><description>
+&lt;span id="eml-8865e4386bcebf15ffbd8938edd1559e" class="email-reveal " data-user="dingsn" data-domain="xjtu.edu.cn" data-subject="">
+&lt;span class="email-label">Email:&lt;/span>
+&lt;a href="#" class="js-reveal-email">(click to reveal)&lt;/a>
+&lt;noscript>
 &amp;#x2709; dingsn [at] xjtu.edu.cn
-&lt;/noscript&gt;
-&lt;script&gt;(function(){
+&lt;/noscript>
+&lt;script>(function(){
 var el=document.getElementById('eml-8865e4386bcebf15ffbd8938edd1559e');
 if(!el) return;
 var link=el.querySelector('.js-reveal-email');
@@ -23,36 +23,36 @@ a.rel='nofollow';
 a.className=link.className;
 el.replaceChild(a, link);
 });
-})();&lt;/script&gt;
-&lt;/span&gt;
-&lt;p&gt;I am a Professor in the &lt;strong&gt;School of Materials Science and Engineering and State Key Laboratory for Mechanical Behavior of Materials at &lt;span class="nowrap"&gt;Xi&amp;rsquo;an&lt;/span&gt;
-Jiaotong University.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;My research focuses on elucidating the &lt;strong&gt;atomic-level structures and structure–property relationships&lt;/strong&gt; of &lt;strong&gt;high-performance disordered alloys&lt;/strong&gt;, including &lt;strong&gt;high-entropy alloys (HEAs)&lt;/strong&gt; and &lt;strong&gt;metallic glasses (MGs)&lt;/strong&gt;. By integrating multiscale modeling, artificial intelligence, and advanced experimental techniques, my group aims to reveal how local structural and chemical disorder governs the macroscopic properties of these complex materials—an area that remains only partially understood. Advancing this fundamental knowledge is both a scientific challenge and a technological imperative, essential for the rational design of next-generation disordered materials with superior performance.&lt;/p&gt;
-&lt;p&gt;Over the past decade, I have authored or co-authored &lt;strong&gt;over 80 peer-reviewed papers, with more than 6,500 citations&lt;/strong&gt; and an &lt;strong&gt;H-index of 37&lt;/strong&gt;. As (co-)first or corresponding author, my work has been published in leading journals such as Nature (1), Nature Materials (2), PNAS (7), Nature Communications (6), Nano Letters (2), and Acta Materialia (5), among others.&lt;/p&gt;
-&lt;h3 id="research-interests"&gt;Research Interests:&lt;/h3&gt;
+})();&lt;/script>
+&lt;/span>
+&lt;!-- markdownlint-disable-next-line MD033 -->
+&lt;p>I am a Professor in the &lt;strong>School of Materials Science and Engineering and State Key Laboratory for Mechanical Behavior of Materials at &lt;span class="nowrap">Xi&amp;rsquo;an&lt;/span> Jiaotong University.&lt;/strong>&lt;/p>
+&lt;p>My research focuses on elucidating the &lt;strong>atomic-level structures and structure–property relationships&lt;/strong> of &lt;strong>high-performance disordered alloys&lt;/strong>, including &lt;strong>high-entropy alloys (HEAs)&lt;/strong> and &lt;strong>metallic glasses (MGs)&lt;/strong>. By integrating multiscale modeling, artificial intelligence, and advanced experimental techniques, my group aims to reveal how local structural and chemical disorder governs the macroscopic properties of these complex materials—an area that remains only partially understood. Advancing this fundamental knowledge is both a scientific challenge and a technological imperative, essential for the rational design of next-generation disordered materials with superior performance.&lt;/p>
+&lt;p>Over the past decade, I have authored or co-authored &lt;strong>over 80 peer-reviewed papers, with more than 6,500 citations&lt;/strong> and an &lt;strong>H-index of 37&lt;/strong>. As (co-)first or corresponding author, my work has been published in leading journals such as Nature (1), Nature Materials (2), PNAS (7), Nature Communications (6), Nano Letters (2), and Acta Materialia (5), among others.&lt;/p>
+&lt;h3 id="research-interests">Research Interests:&lt;/h3>
 &lt;!-- - **High-performance structural materials (high-entropy and amorphous alloys)**
 - **Machine learning and multiscale simulations**
 - **3D printing of metal materials**
-- **Mechanical properties of materials** --&gt;
-&lt;ul&gt;
-&lt;li&gt;Alloy design of high-entropy alloys and metallic glasses&lt;/li&gt;
-&lt;li&gt;Artificial intelligence for materials discovery and design&lt;/li&gt;
-&lt;li&gt;Additive manufacturing of structural alloys&lt;/li&gt;
-&lt;li&gt;Mechanical behavior of materials&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h3 id="awards-and-honors"&gt;Awards and Honors&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;2023 Early-Career Scientist Award, 27th International Symposium on Metastable, Amorphous and Nanostructured Materials (ISMANAM)&lt;/li&gt;
-&lt;li&gt;2023 Outstanding Young Scientist, Chinese Materials Research Society&lt;/li&gt;
-&lt;li&gt;2023 Xiaomi Young Scholar Award&lt;/li&gt;
-&lt;li&gt;2019 National Youth Talents Program (China)&lt;/li&gt;
-&lt;li&gt;2015 Acta Student Award&lt;/li&gt;
-&lt;li&gt;2010 Whiting School of Engineering Fellowship, Johns Hopkins University&lt;/li&gt;
-&lt;/ul&gt;
+- **Mechanical properties of materials** -->
+&lt;ul>
+&lt;li>Alloy design of high-entropy alloys and metallic glasses&lt;/li>
+&lt;li>Artificial intelligence for materials discovery and design&lt;/li>
+&lt;li>Additive manufacturing of structural alloys&lt;/li>
+&lt;li>Mechanical behavior of materials&lt;/li>
+&lt;/ul>
+&lt;h3 id="awards-and-honors">Awards and Honors&lt;/h3>
+&lt;ul>
+&lt;li>2023 Early-Career Scientist Award, 27th International Symposium on Metastable, Amorphous and Nanostructured Materials (ISMANAM)&lt;/li>
+&lt;li>2023 Outstanding Young Scientist, Chinese Materials Research Society&lt;/li>
+&lt;li>2023 Xiaomi Young Scholar Award&lt;/li>
+&lt;li>2019 National Youth Talents Program (China)&lt;/li>
+&lt;li>2015 Acta Student Award&lt;/li>
+&lt;li>2010 Whiting School of Engineering Fellowship, Johns Hopkins University&lt;/li>
+&lt;/ul>
 &lt;!-- - 2023.09 Young Scientists Award(ISMANAM)
 - 2023.08 Xiaomi Young Scholars （Xiaomi）
 - 2023.08 Outstanding Young Scientist Award（Chinese Materials Research Society）
 - 2019.11 National Young Talents Program
 - 2015.01 Acta Student Award
 - 2015.01 JSPS Postdoctoral Fellowship for Oversea Researchers (declined)
-- 2010.01 Fellowship, Whiting School of Engineering at Johns Hopkins University --&gt;</description></item></channel></rss>
+- 2010.01 Fellowship, Whiting School of Engineering at Johns Hopkins University --></description></item></channel></rss>
