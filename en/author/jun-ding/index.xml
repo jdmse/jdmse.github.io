@@ -25,9 +25,9 @@ el.replaceChild(a, link);
 });
 })();&lt;/script&gt;
 &lt;/span&gt;
-&lt;p&gt;I am a Professor in the &lt;strong&gt;School of Materials Science and Engineering and State Key Laboratory for Mechanical Behavior of Materials at Xi’an Jiaotong University.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;My research focuses on uncovering the &lt;strong&gt;atomic-level structures and structure–property relationships of high-performance disordered alloys&lt;/strong&gt;, including &lt;strong&gt;high-entropy alloys (HEAs) and metallic glasses (MGs)&lt;/strong&gt;. By integrating multiscale modeling, artificial intelligence, and advanced experimental techniques, my group seeks to reveal how local structural and chemical disorder governs the macroscopic properties of these complex materials.
-The central motivation behind our work is that, unlike crystalline materials, the structure–property relationships in disordered systems remain poorly understood due to their inherent atomic and chemical randomness. Advancing this understanding is both a scientific challenge and a technological imperative—key to guiding the design of novel disordered materials for next-generation engineering applications.&lt;/p&gt;
+&lt;p&gt;I am a Professor in the &lt;strong&gt;School of Materials Science and Engineering and State Key Laboratory for Mechanical Behavior of Materials at &lt;span class="nowrap"&gt;Xi&amp;rsquo;an&lt;/span&gt;
+Jiaotong University.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My research focuses on elucidating the &lt;strong&gt;atomic-level structures and structure–property relationships&lt;/strong&gt; of &lt;strong&gt;high-performance disordered alloys&lt;/strong&gt;, including &lt;strong&gt;high-entropy alloys (HEAs)&lt;/strong&gt; and &lt;strong&gt;metallic glasses (MGs)&lt;/strong&gt;. By integrating multiscale modeling, artificial intelligence, and advanced experimental techniques, my group aims to reveal how local structural and chemical disorder governs the macroscopic properties of these complex materials—an area that remains only partially understood. Advancing this fundamental knowledge is both a scientific challenge and a technological imperative, essential for the rational design of next-generation disordered materials with superior performance.&lt;/p&gt;
 &lt;p&gt;Over the past decade, I have authored or co-authored &lt;strong&gt;over 80 peer-reviewed papers, with more than 6,500 citations&lt;/strong&gt; and an &lt;strong&gt;H-index of 37&lt;/strong&gt;. As (co-)first or corresponding author, my work has been published in leading journals such as Nature (1), Nature Materials (2), PNAS (7), Nature Communications (6), Nano Letters (2), and Acta Materialia (5), among others.&lt;/p&gt;
 &lt;h3 id="research-interests"&gt;Research Interests:&lt;/h3&gt;
 &lt;!-- - **High-performance structural materials (high-entropy and amorphous alloys)**
@@ -37,8 +37,8 @@ The central motivation behind our work is that, unlike crystalline materials, th
 &lt;ul&gt;
 &lt;li&gt;Alloy design of high-entropy alloys and metallic glasses&lt;/li&gt;
 &lt;li&gt;Artificial intelligence for materials discovery and design&lt;/li&gt;
-&lt;li&gt;Additive Manufacturing of structural alloys;&lt;/li&gt;
-&lt;li&gt;Supercooled liquids and crystal-liquid interfaces&lt;/li&gt;
+&lt;li&gt;Additive manufacturing of structural alloys&lt;/li&gt;
+&lt;li&gt;Mechanical behavior of materials&lt;/li&gt;
 &lt;/ul&gt;
 &lt;h3 id="awards-and-honors"&gt;Awards and Honors&lt;/h3&gt;
 &lt;ul&gt;
