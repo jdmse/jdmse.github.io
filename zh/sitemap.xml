@@ -2,306 +2,357 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://jdmse.github.io/zh/</loc>
+    <loc>http://localhost:1313/zh/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/"
+                href="http://localhost:1313/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/"
+                href="http://localhost:1313/zh/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/people/</loc>
+    <loc>http://localhost:1313/zh/people/</loc>
     <lastmod>2025-10-14T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/people/"
+                href="http://localhost:1313/en/people/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/people/"
+                href="http://localhost:1313/zh/people/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/contact/</loc>
+    <loc>http://localhost:1313/zh/contact/</loc>
     <lastmod>2022-10-24T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/contact/"
+                href="http://localhost:1313/en/contact/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/contact/"
+                href="http://localhost:1313/zh/contact/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/admin/</loc>
+    <loc>http://localhost:1313/zh/admin/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/admin/"
+                href="http://localhost:1313/en/admin/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/admin/"
+                href="http://localhost:1313/zh/admin/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/authors/</loc>
+    <loc>http://localhost:1313/zh/authors/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/authors/"
+                href="http://localhost:1313/en/authors/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/authors/"
+                href="http://localhost:1313/zh/authors/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/categories/</loc>
+    <loc>http://localhost:1313/zh/categories/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/categories/"
+                href="http://localhost:1313/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/categories/"
+                href="http://localhost:1313/zh/categories/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/post/</loc>
+    <loc>http://localhost:1313/zh/post/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/post/"
+                href="http://localhost:1313/en/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/post/"
+                href="http://localhost:1313/zh/post/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/publication_types/</loc>
+    <loc>http://localhost:1313/zh/publication_types/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/publication_types/"
+                href="http://localhost:1313/en/publication_types/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/publication_types/"
+                href="http://localhost:1313/zh/publication_types/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/publication/</loc>
+    <loc>http://localhost:1313/zh/publication/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/publication/"
+                href="http://localhost:1313/en/publication/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/publication/"
+                href="http://localhost:1313/zh/publication/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/tags/</loc>
+    <loc>http://localhost:1313/zh/tags/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/tags/"
+                href="http://localhost:1313/en/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/tags/"
+                href="http://localhost:1313/zh/tags/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/wenxun-li/</loc>
+    <loc>http://localhost:1313/zh/author/wenxun-li/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/wenxun-li/"
+                href="http://localhost:1313/en/author/wenxun-li/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/wenxun-li/"
+                href="http://localhost:1313/zh/author/wenxun-li/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/</loc>
+    <loc>http://localhost:1313/zh/author/%E4%B8%81%E4%BF%8A/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/jun-ding/"
+                href="http://localhost:1313/en/author/jun-ding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E4%B8%81%E4%BF%8A/"
+                href="http://localhost:1313/zh/author/%E4%B8%81%E4%BF%8A/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E4%BE%AF%E7%91%BE%E7%9D%BF/</loc>
+    <loc>http://localhost:1313/zh/author/%E4%BE%AF%E7%91%BE%E7%9D%BF/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/jinrui-hou/"
+                href="http://localhost:1313/en/author/jinrui-hou/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E4%BE%AF%E7%91%BE%E7%9D%BF/"
+                href="http://localhost:1313/zh/author/%E4%BE%AF%E7%91%BE%E7%9D%BF/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E5%91%A8%E5%AD%90%E6%81%92/</loc>
+    <loc>http://localhost:1313/zh/author/%E5%91%A8%E5%AD%90%E6%81%92/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/ziheng-zhou/"
+                href="http://localhost:1313/en/author/ziheng-zhou/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E5%91%A8%E5%AD%90%E6%81%92/"
+                href="http://localhost:1313/zh/author/%E5%91%A8%E5%AD%90%E6%81%92/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</loc>
+    <loc>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/yaqiong-an/"
+                href="http://localhost:1313/en/author/yaqiong-an/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/"
+                href="http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E5%BC%A0%E4%BA%91%E9%9C%84/</loc>
+    <loc>http://localhost:1313/zh/author/%E5%BC%A0%E4%BA%91%E9%9C%84/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/yunxiao-zhang/"
+                href="http://localhost:1313/en/author/yunxiao-zhang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E5%BC%A0%E4%BA%91%E9%9C%84/"
+                href="http://localhost:1313/zh/author/%E5%BC%A0%E4%BA%91%E9%9C%84/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E5%BC%A0%E5%8D%9A%E5%8F%AC/</loc>
+    <loc>http://localhost:1313/zh/author/%E5%BE%90%E4%B8%AB%E7%90%B4/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/bozhao-zhang/"
+                href="http://localhost:1313/en/author/yaqin-xu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E5%BC%A0%E5%8D%9A%E5%8F%AC/"
+                href="http://localhost:1313/zh/author/%E5%BE%90%E4%B8%AB%E7%90%B4/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E5%BE%90%E4%B8%AB%E7%90%B4/</loc>
+    <loc>http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/yaqin-xu/"
+                href="http://localhost:1313/en/author/wenxuan-li/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E5%BE%90%E4%B8%AB%E7%90%B4/"
+                href="http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</loc>
+    <loc>http://localhost:1313/zh/author/%E6%B1%AA%E7%8E%89%E7%90%B4/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/wenxuan-li/"
+                href="http://localhost:1313/en/author/yuqin-wang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/"
+                href="http://localhost:1313/zh/author/%E6%B1%AA%E7%8E%89%E7%90%B4/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E6%B1%AA%E7%8E%89%E7%90%B4/</loc>
+    <loc>http://localhost:1313/zh/author/%E7%86%8A%E5%AE%B6%E6%A8%B1/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/yuqin-wang/"
+                href="http://localhost:1313/en/author/jiaying-xiong/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E6%B1%AA%E7%8E%89%E7%90%B4/"
+                href="http://localhost:1313/zh/author/%E7%86%8A%E5%AE%B6%E6%A8%B1/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E8%8D%80%E5%87%AF%E8%BE%89/</loc>
+    <loc>http://localhost:1313/zh/author/%E7%86%8A%E5%AE%B6%E6%A8%B1/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E7%8E%8B%E5%BF%97%E8%BE%89/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/kaihui-xun/"
+                href="http://localhost:1313/en/author/zhihui-wang/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E8%8D%80%E5%87%AF%E8%BE%89/"
+                href="http://localhost:1313/zh/author/%E7%8E%8B%E5%BF%97%E8%BE%89/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E8%94%9A%E9%94%A6%E5%8D%8E/</loc>
+    <loc>http://localhost:1313/zh/author/%E7%8E%8B%E5%BF%97%E8%BE%89/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E8%8D%80%E5%87%AF%E8%BE%89/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/jinhua-yu/"
+                href="http://localhost:1313/en/author/kaihui-xun/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E8%94%9A%E9%94%A6%E5%8D%8E/"
+                href="http://localhost:1313/zh/author/%E8%8D%80%E5%87%AF%E8%BE%89/"
                 />
   </url><url>
-    <loc>https://jdmse.github.io/zh/author/%E9%9C%8D%E6%96%87%E9%9B%85/</loc>
+    <loc>http://localhost:1313/zh/author/%E8%94%9A%E9%94%A6%E5%8D%8E/</loc>
     <changefreq>weekly</changefreq>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-us"
-                href="https://jdmse.github.io/en/author/wenya-huo/"
+                href="http://localhost:1313/en/author/jinhua-yu/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-Hans"
-                href="https://jdmse.github.io/zh/author/%E9%9C%8D%E6%96%87%E9%9B%85/"
+                href="http://localhost:1313/zh/author/%E8%94%9A%E9%94%A6%E5%8D%8E/"
                 />
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E9%99%88%E5%AD%90%E8%B1%AA/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/author/zihao-chen/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/%E9%99%88%E5%AD%90%E8%B1%AA/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E9%99%88%E5%AD%90%E8%B1%AA/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E9%9C%8D%E6%96%87%E9%9B%85/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/author/wenya-huo/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/%E9%9C%8D%E6%96%87%E9%9B%85/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E9%AD%8F%E6%96%87%E5%B7%9D/</loc>
+    <changefreq>weekly</changefreq>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-us"
+                href="http://localhost:1313/en/author/wenchuan-wei/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-Hans"
+                href="http://localhost:1313/zh/author/%E9%AD%8F%E6%96%87%E5%B7%9D/"
+                />
+  </url><url>
+    <loc>http://localhost:1313/zh/author/%E9%AD%8F%E6%96%87%E5%B7%9D/</loc>
+    <changefreq>weekly</changefreq>
   </url>
 </urlset>

@@ -1,15 +1,15 @@
 {
-  "name": "丁俊课题组",
-  "short_name": "丁俊课题组",
+  "name": "Ding Research Group — Advancing Disordered Alloys",
+  "short_name": "Ding Research Group — Advancing Disordered Alloys",
   "lang": "zh-Hans",
   "theme_color": "#1565c0",
   "background_color": "#1565c0",
   "icons": [{
-    "src": "/media/icon_hu_f7eee4fa97025c42.png",
+    "src": "/media/icon_hu_452d679458c3a85f.png",
     "sizes": "192x192",
     "type": "image/png"
     }, {
-    "src": "/media/icon_hu_7613a4a452ac7087.png",
+    "src": "/media/icon_hu_7833d0ce5e9efe30.png",
     "sizes": "512x512",
     "type": "image/png"
      }],

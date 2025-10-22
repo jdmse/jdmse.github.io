@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Yaqiong An | Ding Jun Research Group</title>
-    <link>https://jdmse.github.io/en/author/yaqiong-an/</link>
-      <atom:link href="https://jdmse.github.io/en/author/yaqiong-an/index.xml" rel="self" type="application/rss+xml" />
+    <title>Yaqiong An | Ding Research Group — Advancing Disordered Alloys</title>
+    <link>http://localhost:1313/en/author/yaqiong-an/</link>
+      <atom:link href="http://localhost:1313/en/author/yaqiong-an/index.xml" rel="self" type="application/rss+xml" />
     <description>Yaqiong An</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://jdmse.github.io/en/author/yaqiong-an/avatar_hu_38f694535db79490.jpg</url>
+      <url>http://localhost:1313/en/author/yaqiong-an/avatar_hu_38f694535db79490.jpg</url>
       <title>Yaqiong An</title>
-      <link>https://jdmse.github.io/en/author/yaqiong-an/</link>
+      <link>http://localhost:1313/en/author/yaqiong-an/</link>
     </image>
     
     <item>
       <title>Yaqiong An</title>
-      <link>https://jdmse.github.io/en/author/yaqiong-an/</link>
+      <link>http://localhost:1313/en/author/yaqiong-an/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/en/author/yaqiong-an/</guid>
+      <guid>http://localhost:1313/en/author/yaqiong-an/</guid>
       <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

@@ -1,45 +1,97 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jun Ding | Ding Jun Research Group</title>
-    <link>https://jdmse.github.io/en/author/jun-ding/</link>
-      <atom:link href="https://jdmse.github.io/en/author/jun-ding/index.xml" rel="self" type="application/rss+xml" />
+    <title>Jun Ding | Ding Research Group — Advancing Disordered Alloys</title>
+    <link>http://localhost:1313/en/author/jun-ding/</link>
+      <atom:link href="http://localhost:1313/en/author/jun-ding/index.xml" rel="self" type="application/rss+xml" />
     <description>Jun Ding</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
     <image>
-      <url>https://jdmse.github.io/en/author/jun-ding/avatar_hu_5b3a6b8f6e487612.png</url>
+      <url>http://localhost:1313/en/author/jun-ding/avatar_hu_5b3a6b8f6e487612.png</url>
       <title>Jun Ding</title>
-      <link>https://jdmse.github.io/en/author/jun-ding/</link>
+      <link>http://localhost:1313/en/author/jun-ding/</link>
     </image>
     
     <item>
       <title>Jun Ding</title>
-      <link>https://jdmse.github.io/en/author/jun-ding/</link>
+      <link>http://localhost:1313/en/author/jun-ding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/en/author/jun-ding/</guid>
-      <description>&lt;p&gt;Long-term commitment to the research of the structure-performance relationship of high-performance alloy materials and the mechanical deformation behavior of metal materials. To date, over 70 SCI papers have been published, with more than 6,000 citations; among them, important papers have been published as (co-)first author/corresponding author in journals such as Nature, Nature Materials (2 papers), PNAS (7 papers), Nature Communications (6 papers), Nano Letters, Acta Materialia, npj Computational Materials, etc. The research work has been selected as a research hotspot by the U.S. Department of Energy and reported by Phys.org. He/she leads national-level youth talent projects, general projects from the National Natural Science Foundation, youth projects, and Xi&amp;rsquo;an Jiaotong University&amp;rsquo;s outstanding young talent program.&lt;/p&gt;
-&lt;h3 id=&#34;interests&#34;&gt;Interests:&lt;/h3&gt;
+      <guid>http://localhost:1313/en/author/jun-ding/</guid>
+      <description>
+
+
+
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+&lt;span id=&#34;eml-8865e4386bcebf15ffbd8938edd1559e&#34; class=&#34;email-reveal &#34; data-user=&#34;dingsn&#34; data-domain=&#34;xjtu.edu.cn&#34; data-subject=&#34;&#34;&gt;
+  &lt;span class=&#34;email-label&#34;&gt;Email:&lt;/span&gt;
+  &lt;a href=&#34;#&#34; class=&#34;js-reveal-email&#34;&gt;(click to reveal)&lt;/a&gt;
+  &lt;noscript&gt;
+    &amp;#x2709; dingsn [at] xjtu.edu.cn
+  &lt;/noscript&gt;
+  &lt;script&gt;(function(){
+    var el=document.getElementById(&#39;eml-8865e4386bcebf15ffbd8938edd1559e&#39;);
+    if(!el) return;
+    var link=el.querySelector(&#39;.js-reveal-email&#39;);
+    if(!link) return;
+    link.addEventListener(&#39;click&#39;, function(e){
+      e.preventDefault();
+      var u=el.getAttribute(&#39;data-user&#39;)||&#39;&#39;;
+      var d=el.getAttribute(&#39;data-domain&#39;)||&#39;&#39;;
+      var subj=el.getAttribute(&#39;data-subject&#39;)||&#39;&#39;;
+      var addr=u+&#39;@&#39;+d;
+      var a=document.createElement(&#39;a&#39;);
+      a.href=&#39;mailto:&#39;+addr+(subj?(&#39;?subject=&#39;+encodeURIComponent(subj)):&#39;&#39;);
+      a.textContent=addr;
+      a.rel=&#39;nofollow&#39;;
+      a.className=link.className;
+      el.replaceChild(a, link);
+    });
+  })();&lt;/script&gt;
+&lt;/span&gt;
+
+&lt;p&gt;I am a Professor in the &lt;strong&gt;School of Materials Science and Engineering and State Key Laboratory for Mechanical Behavior of Materials at Xi’an Jiaotong University.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;My research focuses on uncovering the &lt;strong&gt;atomic-level structures and structure–property relationships of high-performance disordered alloys&lt;/strong&gt;, including &lt;strong&gt;high-entropy alloys (HEAs) and metallic glasses (MGs)&lt;/strong&gt;. By integrating multiscale modeling, artificial intelligence, and advanced experimental techniques, my group seeks to reveal how local structural and chemical disorder governs the macroscopic properties of these complex materials.
+The central motivation behind our work is that, unlike crystalline materials, the structure–property relationships in disordered systems remain poorly understood due to their inherent atomic and chemical randomness. Advancing this understanding is both a scientific challenge and a technological imperative—key to guiding the design of novel disordered materials for next-generation engineering applications.&lt;/p&gt;
+&lt;p&gt;Over the past decade, I have authored or co-authored &lt;strong&gt;over 80 peer-reviewed papers, with more than 6,500 citations&lt;/strong&gt; and an &lt;strong&gt;H-index of 37&lt;/strong&gt;. As (co-)first or corresponding author, my work has been published in leading journals such as Nature (1), Nature Materials (2), PNAS (7), Nature Communications (6), Nano Letters (2), and Acta Materialia (5), among others.&lt;/p&gt;
+&lt;h3 id=&#34;research-interests&#34;&gt;Research Interests:&lt;/h3&gt;
   &lt;!-- - **High-performance structural materials (high-entropy and amorphous alloys)**
   - **Machine learning and multiscale simulations**
   - **3D printing of metal materials**
   - **Mechanical properties of materials** --&gt;
 &lt;ul&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Disordered structural alloys: High-entropy alloys and Metallic glasses;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Accelerated computational materials discovery and design;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Additive Manufacturing of structural alloys;&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Multiscale modelling of deformation of advanced structural alloys&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;li&gt;
-&lt;p&gt;&lt;strong&gt;Supercooled liquids and crystal-liquid interfaces&lt;/strong&gt;&lt;/p&gt;
-&lt;/li&gt;
+&lt;li&gt;Alloy design of high-entropy alloys and metallic glasses&lt;/li&gt;
+&lt;li&gt;Artificial intelligence for materials discovery and design&lt;/li&gt;
+&lt;li&gt;Additive Manufacturing of structural alloys;&lt;/li&gt;
+&lt;li&gt;Supercooled liquids and crystal-liquid interfaces&lt;/li&gt;
 &lt;/ul&gt;
+&lt;h3 id=&#34;awards-and-honors&#34;&gt;Awards and Honors&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;2023    Early-Career Scientist Award, 27th International Symposium on Metastable, Amorphous and Nanostructured Materials (ISMANAM)&lt;/li&gt;
+&lt;li&gt;2023    Outstanding Young Scientist, Chinese Materials Research Society&lt;/li&gt;
+&lt;li&gt;2023    Xiaomi Young Scholar Award&lt;/li&gt;
+&lt;li&gt;2019    National Youth Talents Program (China)&lt;/li&gt;
+&lt;li&gt;2015    Acta Student Award&lt;/li&gt;
+&lt;li&gt;2010    Whiting School of Engineering Fellowship, Johns Hopkins University&lt;/li&gt;
+&lt;/ul&gt;
+  &lt;!-- - 2023.09  Young Scientists Award(ISMANAM)
+  - 2023.08  Xiaomi Young Scholars （Xiaomi）
+  - 2023.08  Outstanding Young Scientist Award（Chinese Materials Research Society）
+  - 2019.11  National Young Talents Program   
+  - 2015.01  Acta Student Award
+  - 2015.01  JSPS Postdoctoral Fellowship for Oversea Researchers (declined)
+  - 2010.01  Fellowship, Whiting School of Engineering at Johns Hopkins University  --&gt;
 </description>
     </item>
     

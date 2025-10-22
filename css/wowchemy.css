@@ -9738,3 +9738,20 @@ div.chart {
 
 .cta-group {
   justify-content: center; }
+
+/* Enlarge the text-only CTA under Latest Publications */
+.cta-more-publications {
+  text-align: center; }
+
+.cta-more-publications .cta-group a {
+  font-size: 1.125rem;
+  /* ~18px */
+  font-weight: 600; }
+
+/* Publications subtitle: centered, similar style to title but smaller */
+.pub-subtitle {
+  text-align: center;
+  font-size: 1.25rem;
+  /* smaller than h1 */
+  font-weight: 600;
+  line-height: 1.25; }

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>安雅琼 | 丁俊课题组</title>
-    <link>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
-      <atom:link href="https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/index.xml" rel="self" type="application/rss+xml" />
+    <title>安雅琼 | Ding Research Group — Advancing Disordered Alloys</title>
+    <link>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
+      <atom:link href="http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/index.xml" rel="self" type="application/rss+xml" />
     <description>安雅琼</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/avatar_hu_38f694535db79490.jpg</url>
+      <url>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/avatar_hu_38f694535db79490.jpg</url>
       <title>安雅琼</title>
-      <link>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
+      <link>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
     </image>
     
     <item>
       <title>安雅琼</title>
-      <link>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
+      <link>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</guid>
+      <guid>http://localhost:1313/zh/author/%E5%AE%89%E9%9B%85%E7%90%BC/</guid>
       <description>&lt;!-- 吳恩達 is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. --&gt;

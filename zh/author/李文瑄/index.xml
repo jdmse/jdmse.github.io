@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>李文瑄 | 丁俊课题组</title>
-    <link>https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</link>
-      <atom:link href="https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/index.xml" rel="self" type="application/rss+xml" />
+    <title>李文瑄 | Ding Research Group — Advancing Disordered Alloys</title>
+    <link>http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</link>
+      <atom:link href="http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/index.xml" rel="self" type="application/rss+xml" />
     <description>李文瑄</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>zh-Hans</language>
     <image>
-      <url>https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/avatar_hu_633d536b3b2ba07e.jpg</url>
+      <url>http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/avatar_hu_633d536b3b2ba07e.jpg</url>
       <title>李文瑄</title>
-      <link>https://jdmse.github.io/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</link>
+      <link>http://localhost:1313/zh/author/%E6%9D%8E%E6%96%87%E7%91%84/</link>
     </image>
     
   </channel>

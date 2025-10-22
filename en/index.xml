@@ -1,38 +1,38 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Ding Jun Research Group</title>
-    <link>https://jdmse.github.io/en/</link>
-      <atom:link href="https://jdmse.github.io/en/index.xml" rel="self" type="application/rss+xml" />
-    <description>Ding Jun Research Group</description>
+    <title>Ding Research Group — Advancing Disordered Alloys</title>
+    <link>http://localhost:1313/en/</link>
+      <atom:link href="http://localhost:1313/en/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ding Research Group — Advancing Disordered Alloys</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 14 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://jdmse.github.io/media/icon_hu_7613a4a452ac7087.png</url>
-      <title>Ding Jun Research Group</title>
-      <link>https://jdmse.github.io/en/</link>
+      <url>http://localhost:1313/media/icon_hu_7833d0ce5e9efe30.png</url>
+      <title>Ding Research Group — Advancing Disordered Alloys</title>
+      <link>http://localhost:1313/en/</link>
     </image>
     
     <item>
       <title>People</title>
-      <link>https://jdmse.github.io/en/people/</link>
+      <link>http://localhost:1313/en/people/</link>
       <pubDate>Tue, 14 Oct 2025 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/en/people/</guid>
+      <guid>http://localhost:1313/en/people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://jdmse.github.io/en/contact/</link>
+      <link>http://localhost:1313/en/contact/</link>
       <pubDate>Mon, 24 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/en/contact/</guid>
+      <guid>http://localhost:1313/en/contact/</guid>
       <description></description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jdmse.github.io/en/admin/config.yml</link>
+      <link>http://localhost:1313/en/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://jdmse.github.io/en/admin/config.yml</guid>
+      <guid>http://localhost:1313/en/admin/config.yml</guid>
       <description></description>
     </item>
     
@@ -598,6 +598,14 @@
     
     <item>
       <title>The origin of exceptionally large ductility in molybdenum alloys dispersed with irregular-shaped La2O3 nano-particles</title>
+      <link></link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid></guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Thermally Stable Heterogeneous-Grained Refractory High-Entropy Alloy Offering Superior Strength from 77 to 973 K</title>
       <link></link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid></guid>
