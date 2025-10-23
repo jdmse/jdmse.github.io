@@ -9739,6 +9739,20 @@ div.chart {
 .cta-group {
   justify-content: center; }
 
+/* Mobile navbar: prevent long site title from overlapping icons */
+@media (max-width: 576px) {
+  /* Truncate brand text and keep icons visible */
+  .navbar .navbar-brand {
+    max-width: 55vw;
+    font-size: 1rem; }
+  .navbar .navbar-brand, .navbar .navbar-brand * {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap; }
+  /* Ensure icon group doesn't shrink */
+  .navbar .nav-icons {
+    flex-shrink: 0; } }
+
 /* Enlarge the text-only CTA under Latest Publications */
 .cta-more-publications {
   text-align: center; }
@@ -9755,3 +9769,24 @@ div.chart {
   /* smaller than h1 */
   font-weight: 600;
   line-height: 1.25; }
+
+/* Utility: prevent line breaks inside short phrases (e.g., Xi’an) */
+.nowrap {
+  white-space: nowrap;
+  letter-spacing: normal;
+  /* reset any inherited letter spacing */
+  font-kerning: normal;
+  /* enable kerning */
+  font-family: "Segoe UI", Arial, "Noto Sans", "Liberation Sans", sans-serif;
+  /* prefer Latin fonts in mixed CJK */ }
+
+/* Allow long course titles to wrap in About widget (Education/Employment) */
+.ul-edu .course {
+  white-space: pre-line;
+  /* honor \n as line breaks, still collapse spaces */
+  overflow-wrap: anywhere;
+  /* break long tokens if needed */
+  word-break: break-word;
+  /* fallback for older browsers */
+  hyphens: auto;
+  /* nicer hyphenation when available */ }
